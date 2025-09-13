@@ -152,7 +152,7 @@ Whether you're preparing for an exam, building projects, or exploring new concep
 
 ---
 
-## 🚀 Final Thoughts
+## 🚀😀 Final Thoughts
 
 This guide equips you with the fundamentals required to build embedded systems and robotics projects. Use the tables for quick reference and explore hands-on practice to deepen your understanding. Keep experimenting, debugging, and learning!
 
